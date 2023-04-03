@@ -1,0 +1,22 @@
+.weather{
+    background-image: url("https://images.unsplash.com/photo-1496450681664-3df85efbd29f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHdlYXRoZXJ8ZW58MHx8MHx8&w=1000&q=80");
+    background-size: cover;
+    height: 650px;
+    border-top-left-radius:10px;
+    border-bottom-left-radius:10px;
+    
+}
+
+body{
+    background: linear-gradient(90deg, rgb(27, 21, 128) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    height:auto;
+    background-size: cover;
+}
+
+.weather1{
+    background-color: rgba(129, 129, 129, 0.805);
+    height: 650px;
+    border-top-right-radius:10px;
+    border-bottom-right-radius:10px;
+    
+}
